@@ -9,7 +9,6 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // This widget is the root of your application.
     return MaterialApp(
       title: 'Personal Profile',
       theme: ThemeData(
